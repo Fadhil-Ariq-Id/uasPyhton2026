@@ -1,7 +1,7 @@
 import random
 
 def print_header():
-    """Beautiful header dengan ASCII art"""
+    """hey selamat datang di welcome"""
     print("\n" + "="*60)
     print("🎮" + " "*20 + "TEBAK ANGKA GAME" + " "*20 + "🎮")
     print("="*60)
@@ -173,9 +173,9 @@ def play_game():
         print("\n" + "🌟"*30)
         print("""
     ╔════════════════════════════════════════╗
-    ║   TERIMA KASIH SUDAH BERMAIN! 🎮      ║
+    ║   TERIMA KASIH SUDAH BERMAIN!       ║
     ║   Sampai jumpa lagi! 👋               ║
-    ║   Keep gaming, keep smiling! 😊       ║
+    ║   Keep gaming, keep smiling!         ║
     ╚════════════════════════════════════════╝
         """)
         print("🌟"*30 + "\n")
